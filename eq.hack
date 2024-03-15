@@ -1,0 +1,12 @@
+@SP
+M=M-1
+A=M+1
+D=M
+A=A-1
+D=D-M
+M=0
+@eq.0
+D;JEQ
+@SP
+M=-1
+(eq.0)
