@@ -1,9 +1,2 @@
-# vm-translator
-### _Your Name <your.name@example.com>_
-
-This is a project to do ... something.
-
-## License
-
-Specify license here
-
+# NAND2Tetris vm-translator
+Compiles virtual machine instructions to assembly for the Nand2Tetris course
